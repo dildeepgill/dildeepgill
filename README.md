@@ -6,7 +6,7 @@ A bit about me:
 
 🏦 Former bank clerk and supervisor at a logistics company
 
-📚 Studied Business at York University 
+📚 Studied Kinesiology at York University 
 
 🙋🏽‍♂️ he/him
 
