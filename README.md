@@ -11,10 +11,11 @@ A bit about me:
 🙋🏽‍♂️ he/him
 
 When I'm not at my screen:
-
+```
 ⚽   I love to play soccer
 🧘🏽‍♂️   Yoga & Meditate
 🎮   Play league of legends
 🌄   Go on hikes
+```
 
 
