@@ -1,16 +1,20 @@
-### Hi there 👋
+Hi there 👋 I'm Dildeep Gill! A front-end web developer based in Brantford, Canada.
 
-<!--
-**dildeepgill/dildeepgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A bit about me:
 
-Here are some ideas to get you started:
+👨‍💻 I am a web dev bootcamp graduate at Juno College of Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏦 Former bank clerk and supervisor at a logistics company
+
+📚 Studied Business at York University 
+
+🙋🏽‍♂️ he/him
+
+When I'm not at my screen:
+
+⚽   I love to play soccer
+🧘🏽‍♂️   Yoga & Meditate
+🎮   Play league of legends
+🌄   Go on hikes
+
+
