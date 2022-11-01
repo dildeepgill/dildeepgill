@@ -1,4 +1,4 @@
-Hi there 👋 I'm Dildeep Gill! A front-end web developer based in Brantford, Canada.
+Hi there 👋 I'm Dildeep Gill! A front-end web developer based in Toronto, Canada.
 
 A bit about me:
 
