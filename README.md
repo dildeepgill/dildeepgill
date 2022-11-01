@@ -2,7 +2,7 @@ Hi there 👋 I'm Dildeep Gill! A front-end web developer based in Brantford, Ca
 
 A bit about me:
 
-👨‍💻 I am a web dev bootcamp graduate at Juno College of Technology
+👨‍💻 I am a web dev bootcamp graduate from Juno College of Technology
 
 🏦 Former bank clerk and supervisor at a logistics company
 
