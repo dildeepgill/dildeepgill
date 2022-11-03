@@ -17,4 +17,4 @@ When I'm not at my screen:
 🎮   Play league of legends
 🌄   Go on hikes
 ```
-[![Dildeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dildeepgill)](https://github.com/anuraghazra/github-readme-stats)
+![Dildeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=dildeepgill&show_icons=true&bg_color=00000000)
