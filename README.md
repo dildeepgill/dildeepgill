@@ -8,7 +8,7 @@ A bit about me:
 
 📚 Studied Kinesiology at York University 
 
-🙋🏽‍♂️ he/him
+You can check my portfolio here(dildeepgill.com)
 
 When I'm not at my screen:
 ```
